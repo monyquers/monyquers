@@ -1,7 +1,7 @@
 ### Olá! sou a Monyque Reis 👋
 
 ## 🚀 Sobre mim
-Desenvolvo soluções em otimização e simulação de rede, que permitem impacto em custos, serviços e sustentabilidade. Vasta experiência em análise de dados e modelagem matemática. 
+Desenvolvo soluções em otimização e simulação de rede, que permitem impacto em custos, serviços e sustentabilidade. Experiência em análise de dados e visão computacional. 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monyquesouzareis/)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.[linkedin.com/in/monyquesouzareis](https://github.com/monyquers)/)
